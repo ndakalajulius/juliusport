@@ -11,7 +11,7 @@ function Header() {
         <Link to="/about">About</Link>
         <Link to="/projects">Projects</Link>
         <Link to="/contact">Contact</Link>
-        <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">Download CV</a>
+        <a href="ndakala_Professional_CV.pdf" target="_blank" rel="noopener noreferrer">Download CV</a>
       </nav>
     </header>
   );

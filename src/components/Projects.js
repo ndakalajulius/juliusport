@@ -4,14 +4,14 @@ import "./../styles/Projects.css";
 const Projects = () => {
   const projectData = [
     {
-      title: "E-commerce Platform",
-      description: "A full-stack application with cart and checkout features.",
-      link: "#",
+      title: "Riziki Fondation",
+      description: "Platform for helping the vulnerable in the society.",
+      link: "https://rizikifoundation.net/",
     },
     {
-      title: "E-commerce Platform",
+      title: "Ohanafamilywear",
       description: "A full-stack application with cart and checkout features.",
-      link: "#",
+      link: "https://ohanafamilywear.com/",
     },
     {
       title: "React Native App",
