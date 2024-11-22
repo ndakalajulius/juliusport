@@ -1,16 +1,22 @@
 import React from "react";
 import "./../styles/About.css";
 
-function About() {
+const About = () => {
   return (
-    <section id="about" className="about">
-      <h2>About Me</h2>
-      <p>
-        Hi, I'm [Your Name], a passionate software developer. I specialize in building 
-        modern web applications with React, Node.js, and other cutting-edge technologies.
-      </p>
+    <section className="about">
+      <div className="about-content">
+        <h2>About Me</h2>
+        <p>
+          I'm Julius, a passionate developer with a knack for crafting scalable
+          web applications. My expertise lies in React, Node.js, and mobile app
+          development. I love tackling challenges and bringing ideas to life.
+        </p>
+      </div>
+      <div className="about-image">
+        <img src="https://via.placeholder.com/300" alt="Profile" />
+      </div>
     </section>
   );
-}
+};
 
 export default About;
