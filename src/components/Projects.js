@@ -14,19 +14,24 @@ const Projects = () => {
       link: "https://ohanafamilywear.com/",
     },
     {
-      title: "React Native App",
-      description: "A mobile app built with Expo for seamless user experience.",
-      link: "#",
+      title: "Events Hub kenya",
+      description: "Events Hub kenya is a web app where one may add his or her event and also view other events that are happening in the country.",
+      link: "https://events-hub-kenya.vercel.app/",
     },
     {
-      title: "E-commerce Platform",
-      description: "A full-stack application with cart and checkout features.",
-      link: "#",
+      title: "Vedman Capital Limited",
+      description: "The firm primarily advices clients on investments in the capital markets and where an agreement exits with a client, manage a portfolio of investments for the purpose of investment.",
+      link: "https://vedmangroup.com/",
     },
     {
-      title: "E-commerce Platform",
-      description: "A full-stack application with cart and checkout features.",
-      link: "#",
+      title: "Book Review App",
+      description: "Welcome to Briew.com. We love to learn about the world through books. See a book you like, leave a review. If you don't see a book you like, feel free to upload it and leave a review for future readers! Happy Reading!!",
+      link: "https://merry-blini-2e67bf.netlify.app/",
+    },
+    {
+      title: "HOMEDECOR",
+      description: "Website for real estate!",
+      link: "https://real-estate-website-one-kappa.vercel.app/",
     },
   ];
 
