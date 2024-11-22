@@ -9,8 +9,23 @@ const Projects = () => {
       link: "#",
     },
     {
+      title: "E-commerce Platform",
+      description: "A full-stack application with cart and checkout features.",
+      link: "#",
+    },
+    {
       title: "React Native App",
       description: "A mobile app built with Expo for seamless user experience.",
+      link: "#",
+    },
+    {
+      title: "E-commerce Platform",
+      description: "A full-stack application with cart and checkout features.",
+      link: "#",
+    },
+    {
+      title: "E-commerce Platform",
+      description: "A full-stack application with cart and checkout features.",
       link: "#",
     },
   ];
