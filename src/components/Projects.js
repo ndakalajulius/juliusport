@@ -30,9 +30,21 @@ const Projects = () => {
     },
     {
       title: "HOMEDECOR",
-      description: "Website for real estate!",
+      description: "Website for real Estate!",
       link: "https://real-estate-website-one-kappa.vercel.app/",
     },
+    
+    {
+      title: "spring-field-eye",
+      description: "eye-care-system!",
+      link: "https://spring-field-eye-care-system.vercel.app//",
+    },
+    {
+      title: "SMART | VIEW",
+      description: "Property management website!",
+      link: "https://property-management-website-coral.vercel.app/",
+    },
+  
   ];
 
   return (
