@@ -37,7 +37,7 @@ const Projects = () => {
     {
       title: "spring-field-eye",
       description: "eye-care-system!",
-      link: "https://spring-field-eye-care-system.vercel.app//",
+      link: "https://spring-field-eye-care-system.vercel.app/",
     },
     {
       title: "SMART | VIEW",
